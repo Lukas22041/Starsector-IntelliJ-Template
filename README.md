@@ -2,7 +2,8 @@
 
 ## Description
 
-This is a template for a generic Starsector mod using Java.
+A modified fork of Wisp's Template for a Starsector mod, for the IDE Intellij.
+To download, click the Green "Code" button and then select "Download ZIP".
 
 When you are done, you will have a mod that does nothing, but is ready for anything to be added.
 
